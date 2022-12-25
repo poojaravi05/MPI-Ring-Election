@@ -1,0 +1,16 @@
+The election to be initiated by the process rank #3 ...
+
+******  Chang and Roberts Election Algorithm Implementation     ******
+
+Process Rank:  3  <--->  Unique-Identifier (UID): 862390
+Process Rank:  4  <--->  Unique-Identifier (UID): 779660
+Process Rank:  5  <--->  Unique-Identifier (UID): 923824
+Process Rank:  6  <--->  Unique-Identifier (UID): 548975
+Process Rank:  0  <--->  Unique-Identifier (UID): 340779
+Process Rank:  1  <--->  Unique-Identifier (UID): 48950
+Process Rank:  2  <--->  Unique-Identifier (UID): 509853
+
+Processor 3 is initiating the election and sending the UID #862390 to processor #4
+
+
+******  Leader!!! Rank: 5 UID: 923824   ******
